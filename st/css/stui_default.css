@@ -86,7 +86,7 @@ body{ padding-top: 80px}
 @media (max-width:1024px){
 	
 	/* all */
-	body{padding-top:100px}
+	body{padding-top:10px}
 
     /* header */
 	.top-fixed-down{margin-top:-55px}
