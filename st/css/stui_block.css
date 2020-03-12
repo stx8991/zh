@@ -35,25 +35,6 @@ p{margin:0 0 0px;}
 
 @media (max-width: 767px){[class*=col-]{padding:5px}}
 
-/* text */
-h1{ font-size:22px; line-height: 28px;}
-h2{ font-size:20px; line-height: 26px;}
-h3{ font-size:18px; line-height: 24px;}
-h4{ font-size:16px; line-height: 22px;}
-h5{ font-size:14px; line-height: 20px;}
-h6{ font-size:12px; line-height: 18px;}
-h1,h2,h3,h4,h5,h6{ font-weight: 400; margin-top:10px; margin-bottom:10px}
-a,button{ text-decoration:none; outline:none; -webkit-tap-highlight-color:rgba(0,0,0,0)}
-button:hover{ cursor: pointer;}
-a:focus,a:hover,a:active{ text-decoration:none;}
-.icon{ font-size: 16px; vertical-align: -1px;}
-.font-16{ font-size: 16px;}
-.font-14{ font-size: 14px;}
-.font-12{ font-size: 12px;}
-.text-center{ text-align: center;}
-.text-left{ text-align: left;}
-.text-right{ text-align: right;}
-.text-overflow{ width:100%; overflow:hidden; text-overflow:ellipsis; -o-text-overflow:ellipsis; white-space:nowrap;}
 
 /* img */
 img{border: 0; vertical-align:middle}
@@ -410,15 +391,7 @@ textarea.form-control{ height: auto;}
 			
 	/* all */	
 	body{ font-size: 12px;}	
-	
-	/* text */
-	h1{ font-size:20px; line-height: 24px;}
-	h2{ font-size:18px; line-height: 22px;}
-	h3{ font-size:16px; line-height: 20px;}
-	h4{ font-size:14px; line-height: 18px;}
-	h5{ font-size:12px; line-height: 16px;}
-	h6{ font-size:10px; line-height: 14px;}
-	
+
 	/* btn */
 	.btn{padding: 6px 20px;}
 	.btn-min{ padding: 3px 8px;}
