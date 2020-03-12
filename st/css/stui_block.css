@@ -12,7 +12,7 @@ ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,tr,dl,dd,dt{margin:0;pad
 input,select{font-size:12px;vertical-align:middle; border:none;}
 ul,li{list-style-type:none;}
 img{border:0 none;}
-p{margin:0 0 10px;}
+p{margin:0 0 0px;}
 
 /* container */
 *{-webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box}
