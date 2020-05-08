@@ -1177,7 +1177,7 @@ float:left;
     background:#000;
     width:100%;
     height:220px;
-    background:#000  url(../images/movie.gif) center center;
+    background:#000  url() center center;
     background-size:100% 220px;	
 }
 .mplayer .show-copyright{
